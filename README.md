@@ -1,5 +1,4 @@
 # InsurTech-Claim-Processor
-# InsurTech: Automated Claim Processor
 
 A console-based backend application, written in Python, that helps an insurance company manage customer claims, calculate policy payouts and handle appeals. It was developed as the final project for **CS-2012 Object-Oriented Programming** in the BS Financial Technology program at FAST-NUCES, Karachi.
 
